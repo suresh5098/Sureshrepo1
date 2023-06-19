@@ -1,1 +1,4 @@
- this is master test:
+<<<<<<< HEAD
+this is master test:
+this is dev text
+
